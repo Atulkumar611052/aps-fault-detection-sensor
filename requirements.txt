@@ -19,5 +19,6 @@ PyYAML
 numpy
 scikit-learn
 apache-airflow
+matplotlib.pyplot
 
 
